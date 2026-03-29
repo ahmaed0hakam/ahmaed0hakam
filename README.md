@@ -3,7 +3,7 @@
 
 I don't see the need for this README file, I just saw a video, thought it's cool to make one, but it's not.
 
-- I’m currently working on **Being an FE Architect**
+- I’m currently working on **Being a FE Architect**
 
 - All of my projects are available at [https://ahmaed0hakam.github.io/portfolio/](https://ahmaed0hakam.github.io/portfolio/)
 
